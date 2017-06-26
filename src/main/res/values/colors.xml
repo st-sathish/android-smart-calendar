@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dark_gray">#212121</color>
+    <color name="light_gray">#424242</color>
+    <color name="orange">#BF360C</color>
+    <color name="white">#fff</color>
+
+    <color name="today">#4b82ff</color>
+    <color name="greyed_out">#c7c7c7</color>
+</resources>

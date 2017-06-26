@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartCalendarView</string>
+
+    <string name="sun_abb">S</string>
+    <string name="mon_abb">M</string>
+    <string name="tue_abb">T</string>
+    <string name="wed_abb">W</string>
+    <string name="thu_abb">T</string>
+    <string name="fri_abb">F</string>
+    <string name="sat_abb">S</string>
+</resources>
